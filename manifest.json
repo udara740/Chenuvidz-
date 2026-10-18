@@ -1,0 +1,17 @@
+{
+  "name": "Chenuvidz 1080p Downloader",
+  "short_name": "Chenuvidz",
+  "description": "1080p Full HD Video Downloader for TikTok, YouTube, Instagram & Facebook",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2989/2989976.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
